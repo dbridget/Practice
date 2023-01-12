@@ -63,6 +63,8 @@ int main()
     double rectwidth;
     double rectlength;
 
+    cout << "Hello" << endl;
+
     cout << "This Program will calculate the area of a rectangle" << endl;
     cout << "What is the width" << endl;
     cin >> rectwidth;
